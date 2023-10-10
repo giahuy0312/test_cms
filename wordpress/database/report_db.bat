@@ -1,0 +1,1 @@
+mysqldump --column-statistics=0 -uroot -p wordpresst4 > wordpresst4_auto.sql
